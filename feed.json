@@ -5,6 +5,7 @@
     "home_page_url": "https://testzentrum-greffen.de",
     "feed_url": "https://testzentrum-greffen.de/feed.json",
     "user_comment": "",
+    "icon": "https://testzentrum-greffen.de/media/website/Logo.png",
     "author": {
         "name": "Admin"
     },
