@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Testzentrum Greffen</title>
+    <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
+    <link href="https://testzentrum-greffen.de" />
+    <updated>2022-04-21T17:55:52+02:00</updated>
+    <author>
+        <name>Admin</name>
+    </author>
+    <id>https://testzentrum-greffen.de</id>
+
+    <entry>
+        <title>Reisen</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/reisen.html"/>
+        <id>https://testzentrum-greffen.de/reisen.html</id>
+
+        <updated>2022-04-21T17:45:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    (zuletzt aktualisiert am 21.04.2022) Berücksichtigen Sie immer die aktuell gültigen Regelungen des Land und Bundes. Sprechen Sie bei Unsicherheit immer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>(zuletzt aktualisiert am 21.04.2022)</p>
+<p class="msg msg--warning">Berücksichtigen Sie immer die aktuell gültigen Regelungen des Land und Bundes. Sprechen Sie bei Unsicherheit immer mit Ihrem Reiseveranstalter oder Flugunternehmen. Wir übernehmen für die Gültigkeit dieser Infos keine Haftung.</p>
+<p>Weisen Sie unser Team darauf hin, wenn Sie einen Testnachweis für Reisezwecke benötigen!</p>
+<p><strong>Hier ist notwendig, dass Ihre Personalausweisnr im Nachweis erfasst ist, um die Anforderungen der Verordnung zu erfüllen. </strong>Das erspart Ihnen Überraschungen am Flughafen.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Positiv?</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/positiv.html"/>
+        <id>https://testzentrum-greffen.de/positiv.html</id>
+
+        <updated>2022-04-21T17:55:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test. Gehen Sie für diesen schnellstmöglich auf das&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test.</p>
+<p>Gehen Sie für diesen schnellstmöglich auf das <a href="https://www.gesundheitszentrum-greffen.de/">Gesundheitszentrum Greffen</a> zu.<br><strong>Dort können Sie <span style="text-decoration: underline;">ohne Termin</span> von Montag bis Freitag in den Zeiten von 08.00 - 11.00 Uhr einen PCR-Abstrich machen lassen.</strong></p>
+<p>Beachten Sie bitte, dass dies in der <strong>Abstrichstelle </strong>des Gesundheitszentrum geschieht, diese befindet sich nicht in der Praxis. Vor dem Praxiseingang stehend, müssen Sie rechts am Gebäude entlanggehen. Dort finden Sie eine Tür und Klingel mit der Aufschrift "Abstrichstelle". Nach Klingeln wendet sich innerhalb weniger Minuten ein Praxismitarbeiter an Sie.</p>
+<p>[PLACEHOLDER FOTO]</p>
+<p>[PLACEHOLDER PCR-TESTVERFAHREN]</p>
+<p class="msg msg--highlight ">Außerdem verweisen wir auf die aktuellen Informationen zu Quarantänereglungen des Kreises Gütersloh, die sie <a href="https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/">hier </a>finden.</p>
+<p>Informieren Sie Ihre Kontaktpersonen.<br>Wir informieren das Gesundheitsamt automatisch, damit es Kontakt mit Ihnen aufnimmt.</p>
+<h2>Wir wünschen Ihnen eine gute Besserung!</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testablauf</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/testablauf.html"/>
+        <id>https://testzentrum-greffen.de/testablauf.html</id>
+
+        <updated>2022-04-21T17:53:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vor Ihrem Besuch Voraussetzung: Sie zeigen keine Covid-Symptome. Wenn sie Symptome zeigen, rufen Sie bitte Ihren Hausarzt an und stimmen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Vor Ihrem Besuch</h2>
+<ol>
+<li>Voraussetzung: Sie zeigen keine Covid-Symptome.
+<ol style="list-style-type: lower-alpha;">
+<li>Wenn sie Symptome zeigen, rufen Sie bitte Ihren Hausarzt an und stimmen Sie sich mit diesem ab. Besuchen Sie uns in diesem Fall bitte <span style="text-decoration: underline;">nicht</span>.</li>
+</ol>
+</li>
+<li>Sind Sie asymptomatisch, dann besuchen Sie uns ohne vorherige Terminabsprache. Wir führen Ihren Test gerne spontan durch.</li>
+</ol>
+<h2>Vor Ort</h2>
+<ol>
+<li>Tragen Sie bitte eine Maske und halten Sie einen Abstand von 1,5m oder mehr zu anderen Bürgern.</li>
+<li><strong>Halten Sie Ihren Personalausweis bereit.</strong></li>
+<li>Warten Sie am Anmeldetisch, bis wir uns an Sie wenden.</li>
+<li>ePassGo-Nutzer zeigen Ihren persönlichen QR-Code vor.
+<ol style="list-style-type: lower-alpha;">
+<li>Alternativ füllen Sie die grau-hinterlegten Felder in den vorgestellten Formularen aus.</li>
+</ol>
+</li>
+<li>Wir machen Ihren Abstrich.</li>
+<li>Innerhalb von 15-20 Minuten erhalten Sie das Testergebnis in Formularform (zur Abholung) oder per eMail.</li>
+</ol>
+<p>Für die kontaktlose und schnellste Abwicklung Ihres Tests, empfehlen wir Ihnen die Smartphone-App <strong>ePassGo</strong>.<br>Sie erstellen mit ihr einen persönlichen QR-Code, der das händische Formular ersetzt. Das Ergebnis erhalten Sie dann digital. Das erspart Ihnen das Warten am Testzentrum.</p>
+<p>Weitere Informationen gibt es auf der Seite des Herstellers (<a href="https://www.passgo.de/">passgo.de</a>).</p>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://testzentrum-greffen.de/media/posts/5/epassgo-logo-schrift.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-md.png 768w"  alt="" width="779" height="300"></figure>
+<p>Klicken Sie die Bilder an, um die App im Marketplace für Ihr Smartphone zu öffnen und zu downloaden.</p>
+<figure class="post__image"><a href="https://play.google.com/store/apps/details?id=de.passgo.passgo"><img loading="lazy"  src="https://testzentrum-greffen.de/media/posts/5/playstore_banner.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-md.png 768w"  alt="" width="342" height="100"></figure></a> <a href="https://apps.apple.com/de/app/passgo/id1554859142"><figure class="post__image"><img loading="lazy"  src="https://testzentrum-greffen.de/media/posts/5/appstore_click.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-md.png 768w"  alt="" width="296" height="100"></figure></a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Quarantäneregelung</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/quarantaeneregelung.html"/>
+        <id>https://testzentrum-greffen.de/quarantaeneregelung.html</id>
+
+        <updated>2022-04-21T12:56:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Aktuelle Informationen zu Quarantäneregelungen finden Sie auf der Website des Kreises Gütersloh. https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/ Bei Fragen können Sie sich an die&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Aktuelle Informationen zu Quarantäneregelungen finden Sie auf der Website des Kreises Gütersloh.</p>
+<p><a href="https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/">https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/</a></p>
+<p>Bei Fragen können Sie sich an die Corona-Hotline unter <a href="tel:004952415042600">05241-50 42 600</a> wenden.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Impressum</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/impressum.html"/>
+        <id>https://testzentrum-greffen.de/impressum.html</id>
+
+        <updated>2022-04-21T17:40:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Angaben gemäß § 5 TMG Testzentrum Greffen Petra Araz Hauptstraße 41 33428 Harsewinkel Vertreten durch: Petra Araz Kontakt: E-Mail: info@testzentrum-greffen.de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Angaben gemäß § 5 TMG</p>
+<p>Testzentrum Greffen<br>Petra Araz<br>Hauptstraße 41<br>33428 Harsewinkel</p>
+<p><strong>Vertreten durch:</strong><br>Petra Araz</p>
+<p><strong>Kontakt:</strong><br>E-Mail: <a href="mailto:info@testzentrum-greffen.de">info@testzentrum-greffen.de</a></p>
+<p><strong>Haftungsausschluss:</strong><br><br><strong>Haftung für Inhalte</strong><br><br>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br><br><strong>Haftung für Links</strong><br><br>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br><strong>Urheberrecht</strong><br><br>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.<br><br><strong>Datenschutz</strong><br><br>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.<br>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.<br>Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.<br><br><br><strong>Google Analytics</strong><br><br>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (''Google''). Google Analytics verwendet sog. ''Cookies'', Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Datenschutzerklärung</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/datenschutzerklaerung.html"/>
+        <id>https://testzentrum-greffen.de/datenschutzerklaerung.html</id>
+
+        <updated>2022-04-21T17:40:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Verantwortlich im Sinne der Datenschutzgesetzes: Testzentrum Greffen Petra Araz Hauptstraße 41 33428 Harsewinkel Datenschutz Als Webseitenbetreiber nehmen wir den Schutz&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Verantwortlich im Sinne der Datenschutzgesetzes:</p>
+<p>Testzentrum Greffen<br>Petra Araz<br>Hauptstraße 41<br>33428 Harsewinkel</p>
+<p><strong>Datenschutz</strong></p>
+<p>Als Webseitenbetreiber nehmen wir den Schutz aller persönlichen Daten sehr ernst. Alle personenbezogenen Informationen werden vertraulich und gemäß den gesetzlichen Vorschriften behandelt, wie in dieser Datenschutzerklärung erläutert.</p>
+<p>Unserer Webseite kann selbstverständlich genutzt werden, ohne dass Sie persönliche Daten angeben. Wenn jedoch zu irgendeinem Zeitpunkt persönliche Daten wie z.B. Name, Adresse oder E-Mail abgefragt werden, wird dies auf freiwilliger Basis geschehen. Niemals werden von uns erhobene Daten ohne Ihre spezielle Genehmigung an Dritte weitergegeben.</p>
+<p>Datenübertragung im Internet, wie zum Beispiel über E-Mail, kann immer Sicherheitslücken aufweisen. Der komplette Schutz der Daten ist im Internet nicht möglich.</p>
+<p><strong>Datenschutzerklärung Facebook-Plugins (Like-Button)</strong></p>
+<p>Auf unseren Seiten werden Plugins von Facebook genutzt, Anbieter ist die Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA. Facebook-Plugins sind mit einem Facebook-Logo markiert oder zeigen einen “Like-Button” (“Gefällt mir”). Mehr Informationen über Facebook-Plugins finden Sie hier: http://developers.facebook.com/docs/plugins/.</p>
+<p>Beim Besuch unserer Webseite stellt das Plugin eine direkte Verbindung zwischen Ihrem Webbrowser und dem Facebook-Server her. Dabei wird übermittelt, dass Sie sich mit Ihrer IP-Adresse auf unsere Webseite begeben haben. Wird der Facebook “Like-Button” angeklickt, während Sie in Ihrem Facebook-Account eingeloggt sind, können bestimmte Inhalte unserer Webseiten mit Ihrem Facebook-Profil verlinkt werden. In diesem Prozess ist es Facebook möglich, ihren Besuch auf unseren Webseiten mit ihrem Benutzerkonto zu speichern. Als Webseitenbetreiber haben wir keine Informationen darüber, welche Daten übermittelt werden und wie diese genutzt werden. Mehr Informationen dazu finden Sie hier:</p>
+<p>http://de-de.facebook.com/policy.php.</p>
+<p>Um zu vermeiden, dass Facebook Ihren Besuch auf unserer Webseite verfolgt, melden Sie sich bitte vor Nutzung unseres Angebots bei Facebook ab.</p>
+<p><strong>Datenschutzerklärung Google Analytics</strong></p>
+<p>Unsere Website nutzt den Analysedienst Google Analytics, betrieben von Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google Analytics nutzt “Cookies”, das sind kleine Textdateien, die in Ihrem Browser gespeichert werden und die es ermöglichen, die Nutzung unserer Website durch die Besucher zu analysieren. Von den Cookies werden Daten über Ihre Nutzung unserer Webseite gesammelt, die normalerweise an einen Google-Server in den USA übertragen und gespeichert werden.</p>
+<p>Wenn die IP-Anonymisierung auf unserer Webseite aktiviert wurde, wird Ihre IP-Adresse von Google innerhalb der Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vorab gekürzt. In seltenen Ausnahmefällen kann die komplette IP-Adresse an einen Google Server in den USA übertragen werden, dann wird diese dort gekürzt. Google nutzt diese Daten in unserem Auftrag, um die Nutzung unserer Website auszuwerten, um Berichte über die Webseitenaktivitäten zu erstellen sowie um weitere Dienstleistungen anzubieten, die mit der Webseitennutzung und Internetnutzung zusammenhängen. Die von Google Analytics erfassten IP-Adressen werden nicht mit anderen Daten von Google korreliert.</p>
+<p>Die Speicherung von Cookies kann durch eine spezielle Einstellung in Ihrem Browser verweigert werden. In diesem Fall ist jedoch die Funktionalität unserer Webseite im vollen Umfang nicht gewährleistet. Zusätzlich steht ihnen ein Browser-Plugin zu Verfügung, mit dem Sie die Sammlung der auf Ihre Nutzung der Website bezogenen erzeugten Daten und IP-Adressen durch Google verhindern können. Mehr Informationen dazu finden Sie hier: http://tools.google.com/dlpage/gaoptout?hl=de</p>
+<p><strong>Auskunft, Löschung, Sperrung</strong></p>
+<p>Zu jedem Zeitpunkt können Sie sich über die personenbezogenen Daten, deren Herkunft und Empfänger und den Nutzen der Datenverarbeitung informieren und unentgeltlich eine Korrektur, Sperrung oder Löschung dieser Daten verlangen. Bitte nutzen Sie dafür die im Impressum angegebenen Kontaktwege. Für weitere Fragen zum Thema stehen wir Ihnen ebenfalls jederzeit zur Verfügung.</p>
+<p><strong>Server-Log-Files</strong></p>
+<p>Der Seiten-Provider erhebt und speichert automatisch Daten in Server-Log Files, die von Ihrem Browser an uns übermittelt werden. Diese Daten enthalten:</p>
+<p>– Browsertyp/ Browserversion</p>
+<p>– Betriebssystem des Rechners</p>
+<p>– Referrer URL</p>
+<p>– Hostname des zugreifenden Rechners</p>
+<p>– Uhrzeit der Serveranfrage</p>
+<p>Diese Daten sind nicht personenbezogen. Es erfolgt keine Zusammenführung dieser Daten mit anderen Datenquellen. Wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden behalten wir uns das Recht vor, diese Daten nachträglich zu überprüfen.</p>
+<p><strong>Cookies</strong></p>
+<p>Viele Internetseiten verwenden Cookies. Cookies sind unschädlich für Ihren Rechner und virenfrei. Sie dienen dazu, Internet-Angebote für die Besucher einer <a href="https://www.link-katalog.de/" target="_blank" rel="noopener">Webseite</a> freundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Computer abgelegt werden und die Ihr Browser verwendet.</p>
+<p>Wir verwenden in der Regel so genannte „Session-Cookies“. Diese werden nach Verlassen unserer Seite automatisch gelöscht. Andere Cookies bleiben auf Ihrem Computer gespeichert, bis Sie diese löschen. Diese Cookies helfen dabei, Ihren Rechner beim nächsten Besuch wiederzuerkennen.</p>
+<p>Über die Browsereinstellungen können sie festlegen, dass Sie über neue Cookies informiert werden und Cookies jeweils annehmen müssen. Ebenso können Sie die Annahme von Cookies für bestimmte Fälle oder generell ausschließen oder das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Werden Cookies desaktiviert, kann die Funktionalität unserer Website eingeschränkt sein.</p>
+<p><strong>Änderung der Datenschutzbestimmungen</strong></p>
+<p>Unsere Datenschutzerklärung können in unregelmäßigen Abständen angepasst werden, damit sie den aktuellen rechtlichen Anforderungen entsprechen oder um Änderungen unserer Dienstleistungen umzusetzen, z. B. bei der Einfügung neuer Angebote. Für Ihren nächsten Besuch gilt dann automatisch die neue <a href="https://xn--datenschutzerklrungmuster-zec.de/was-ist-eine-datenschutzerklaerung/" target="_blank" rel="noopener"><strong>Datenschutzerklärung</strong></a>.</p>
+<p><strong>Kontakt zum Datenschutzmitarbeiter</strong></p>
+<p>Für Fragen zum Datenschutz schicken Sie uns bitte eine Nachricht an info@testzentrum-greffen.de mit dem Betreff „Datenschutz“.</p>
+<p>Diese Widerrufsbelehrung Seite wurde bei <a href="https://xn--datenschutzerklrungmuster-zec.de/" target="_blank" rel="noopener">datenschutzerklärungmuster.de</a> erstellt.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Anfahrt</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/ort-und-zeit.html"/>
+        <id>https://testzentrum-greffen.de/ort-und-zeit.html</id>
+
+        <updated>2022-04-21T17:07:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Unsere Öffnungszeiten (Stand 15.04.2022): Mo. - Sa.: 09.00 - 18.00 Uhr So. u. Feiertage: 12.00 - 16.00 Uhr Sie finden&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Unsere Öffnungszeiten (Stand 15.04.2022):</p>
+<p class="msg msg--highlight  msg--success">Mo. - Sa.: 09.00 - 18.00 Uhr<br>So. u. Feiertage: 12.00 - 16.00 Uhr</p>
+<p>Sie finden uns hier (direkt am Elli-Markt):</p>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19761.368133784108!2d8.7589609!3d51.7481963!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b98eb4b7a39dc3%3A0x1149cee7362c57cd!2sHauptstra%C3%9Fe%2041%2C%2033428%20Harsewinkel!5e0!3m2!1sde!2sde!4v1649690605645!5m2!1sde!2sde" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

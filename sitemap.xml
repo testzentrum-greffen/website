@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://testzentrum-greffen.de/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://testzentrum-greffen.de/</loc>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/datenschutzerklaerung.html</loc>
+<lastmod>2022-04-21T17:40:41+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/impressum.html</loc>
+<lastmod>2022-04-21T17:40:48+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/ort-und-zeit.html</loc>
+<lastmod>2022-04-21T17:07:39+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/positiv.html</loc>
+<lastmod>2022-04-21T17:55:52+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/quarantaeneregelung.html</loc>
+<lastmod>2022-04-21T12:56:13+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/reisen.html</loc>
+<lastmod>2022-04-21T17:45:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://testzentrum-greffen.de/testablauf.html</loc>
+<lastmod>2022-04-21T17:53:45+02:00</lastmod>
+<image:image>
+<image:loc>https://testzentrum-greffen.de/media\posts\5/epassgo-logo-schrift.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://testzentrum-greffen.de/media\posts\5/playstore_banner.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://testzentrum-greffen.de/media\posts\5/appstore_click.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
