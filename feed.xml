@@ -3,7 +3,7 @@
     <title>Testzentrum Greffen</title>
     <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
     <link href="https://testzentrum-greffen.de" />
-    <updated>2022-04-21T17:55:52+02:00</updated>
+    <updated>2022-04-22T10:39:35+02:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -213,7 +213,7 @@
         <link href="https://testzentrum-greffen.de/ort-und-zeit.html"/>
         <id>https://testzentrum-greffen.de/ort-und-zeit.html</id>
 
-        <updated>2022-04-21T17:07:39+02:00</updated>
+        <updated>2022-04-22T10:39:35+02:00</updated>
             <summary>
                 <![CDATA[
                     Unsere Öffnungszeiten (Stand 15.04.2022): Mo. - Sa.: 09.00 - 18.00 Uhr So. u. Feiertage: 12.00 - 16.00 Uhr Sie finden&hellip;
@@ -224,7 +224,7 @@
                 <p>Unsere Öffnungszeiten (Stand 15.04.2022):</p>
 <p class="msg msg--highlight  msg--success">Mo. - Sa.: 09.00 - 18.00 Uhr<br>So. u. Feiertage: 12.00 - 16.00 Uhr</p>
 <p>Sie finden uns hier (direkt am Elli-Markt):</p>
-<div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19761.368133784108!2d8.7589609!3d51.7481963!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b98eb4b7a39dc3%3A0x1149cee7362c57cd!2sHauptstra%C3%9Fe%2041%2C%2033428%20Harsewinkel!5e0!3m2!1sde!2sde!4v1649690605645!5m2!1sde!2sde" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9830.446208073055!2d8.1457189!3d51.9775063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6abbfd6e24c8425b!2sTestzentrum%20Greffen!5e0!3m2!1sde!2sde!4v1650616740968!5m2!1sde!2sde" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
             ]]>
         </content>
     </entry>
