@@ -3,7 +3,7 @@
     <title>Testzentrum Greffen</title>
     <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
     <link href="https://testzentrum-greffen.de" />
-    <updated>2022-04-22T10:39:35+02:00</updated>
+    <updated>2022-04-25T16:14:27+02:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="https://testzentrum-greffen.de/positiv.html"/>
         <id>https://testzentrum-greffen.de/positiv.html</id>
 
-        <updated>2022-04-21T17:55:52+02:00</updated>
+        <updated>2022-04-25T16:14:27+02:00</updated>
             <summary>
                 <![CDATA[
                     Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test. Gehen Sie für diesen schnellstmöglich auf das&hellip;
@@ -50,9 +50,10 @@
             <![CDATA[
                 <p>Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test.</p>
 <p>Gehen Sie für diesen schnellstmöglich auf das <a href="https://www.gesundheitszentrum-greffen.de/">Gesundheitszentrum Greffen</a> zu.<br><strong>Dort können Sie <span style="text-decoration: underline;">ohne Termin</span> von Montag bis Freitag in den Zeiten von 08.00 - 11.00 Uhr einen PCR-Abstrich machen lassen.</strong></p>
-<p>Beachten Sie bitte, dass dies in der <strong>Abstrichstelle </strong>des Gesundheitszentrum geschieht, diese befindet sich nicht in der Praxis. Vor dem Praxiseingang stehend, müssen Sie rechts am Gebäude entlanggehen. Dort finden Sie eine Tür und Klingel mit der Aufschrift "Abstrichstelle". Nach Klingeln wendet sich innerhalb weniger Minuten ein Praxismitarbeiter an Sie.</p>
-<p>[PLACEHOLDER FOTO]</p>
-<p>[PLACEHOLDER PCR-TESTVERFAHREN]</p>
+<p>Beachten Sie bitte, dass dies in der <strong>Abstrichstelle </strong>des Gesundheitszentrum geschieht, diese befindet sich nicht in der Praxis, sondern ist über einen separaten Eingang zu erreichen:</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://testzentrum-greffen.de/media/posts/6/gz.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://testzentrum-greffen.de/media/posts/6/responsive/gz-xs.jpg 300w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-sm.jpg 480w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-md.jpg 768w"  alt="" width="3472" height="4640"></figure>Nach Klingeln wendet sich innerhalb weniger Minuten ein Praxismitarbeiter an Sie.</p>
+<p>Bringen Sie zum PCR-Test Ihre Versichertenkarte und einen Mundschutz mit</p>
+<p>Nach einem Abstrich erhalten Sie einen QR-Code und eine Anleitung zum Umgang mit diesem. Mit dem QR-Code können Sie am nächsten Tag Ihr Ergebnis online abrufen. Eine separate App ist hierfür nicht notwendig. Der Prozess hierzu ist in der Anleitung beschrieben.</p>
 <p class="msg msg--highlight ">Außerdem verweisen wir auf die aktuellen Informationen zu Quarantänereglungen des Kreises Gütersloh, die sie <a href="https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/">hier </a>finden.</p>
 <p>Informieren Sie Ihre Kontaktpersonen.<br>Wir informieren das Gesundheitsamt automatisch, damit es Kontakt mit Ihnen aufnimmt.</p>
 <h2>Wir wünschen Ihnen eine gute Besserung!</h2>
