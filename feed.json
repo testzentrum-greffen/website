@@ -115,14 +115,14 @@
             "url": "https://testzentrum-greffen.de/ort-und-zeit.html",
             "title": "Anfahrt",
             "summary": "Unsere Öffnungszeiten (Stand 15.04.2022): Mo. - Sa.: 09.00 - 18.00 Uhr So. u. Feiertage: 12.00 - 16.00 Uhr Sie finden&hellip;",
-            "content_html": "<p>Unsere Öffnungszeiten (Stand 15.04.2022):</p>\n<p class=\"msg msg--highlight  msg--success\">Mo. - Sa.: 09.00 - 18.00 Uhr<br>So. u. Feiertage: 12.00 - 16.00 Uhr</p>\n<p>Sie finden uns hier (direkt am Elli-Markt):</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9830.446208073055!2d8.1457189!3d51.9775063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6abbfd6e24c8425b!2sTestzentrum%20Greffen!5e0!3m2!1sde!2sde!4v1650616740968!5m2!1sde!2sde\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
+            "content_html": "<p>Unsere Öffnungszeiten (Stand 15.04.2022):</p>\n<p class=\"msg msg--highlight  msg--success\">Mo. - Sa.: 09.00 - 18.00 Uhr<br>So. u. Feiertage: 12.00 - 16.00 Uhr</p>\n<p>Sie finden uns hier (direkt am Elli-Markt):</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2457.611553131028!2d8.143530215787328!3d51.97750627971506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b98fd2ff2d2f5f%3A0x6abbfd6e24c8425b!2sTestzentrum%20Greffen!5e0!3m2!1sde!2sde!4v1651306642149!5m2!1sde!2sde\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2022-04-11T17:26:08+02:00",
-            "date_modified": "2022-04-22T10:39:35+02:00"
+            "date_modified": "2022-04-30T10:18:19+02:00"
         }
     ]
 }
