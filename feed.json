@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://testzentrum-greffen.de/willkommen.html",
+            "url": "https://testzentrum-greffen.de/willkommen.html",
+            "title": "WILLKOMMEN",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-11.16.19-1.jpeg\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-11.16.19-1-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-12.36.03.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-12.36.03-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-12.37.47.jpeg\" data-size=\"2016x1134\"><img loading=\"lazy\" src=\"https://testzentrum-greffen.de/media/posts/10/gallery/WhatsApp-Image-2022-04-29-at-12.37.47-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
+            "image": "https://testzentrum-greffen.de/media/posts/10/WhatsApp-Image-2022-04-29-at-12.37.47-2.jpeg",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-30T08:33:51+02:00",
+            "date_modified": "2022-04-30T09:09:50+02:00"
+        },
+        {
             "id": "https://testzentrum-greffen.de/reisen.html",
             "url": "https://testzentrum-greffen.de/reisen.html",
             "title": "Reisen",
@@ -29,14 +44,14 @@
             "url": "https://testzentrum-greffen.de/positiv.html",
             "title": "Positiv?",
             "summary": "Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test. Gehen Sie für diesen schnellstmöglich auf das&hellip;",
-            "content_html": "<p>Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test.</p>\n<p>Gehen Sie für diesen schnellstmöglich auf das <a href=\"https://www.gesundheitszentrum-greffen.de/\">Gesundheitszentrum Greffen</a> zu.<br><strong>Dort können Sie <span style=\"text-decoration: underline;\">ohne Termin</span> von Montag bis Freitag in den Zeiten von 08.00 - 11.00 Uhr einen PCR-Abstrich machen lassen.</strong></p>\n<p>Beachten Sie bitte, dass dies in der <strong>Abstrichstelle </strong>des Gesundheitszentrum geschieht, diese befindet sich nicht in der Praxis, sondern ist über einen separaten Eingang zu erreichen:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://testzentrum-greffen.de/media/posts/6/gz.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://testzentrum-greffen.de/media/posts/6/responsive/gz-xs.jpg 300w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-sm.jpg 480w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-md.jpg 768w\"  alt=\"\" width=\"3472\" height=\"4640\"></figure>Nach Klingeln wendet sich innerhalb weniger Minuten ein Praxismitarbeiter an Sie.</p>\n<p>Bringen Sie zum PCR-Test Ihre Versichertenkarte und einen Mundschutz mit</p>\n<p>Nach einem Abstrich erhalten Sie einen QR-Code und eine Anleitung zum Umgang mit diesem. Mit dem QR-Code können Sie am nächsten Tag Ihr Ergebnis online abrufen. Eine separate App ist hierfür nicht notwendig. Der Prozess hierzu ist in der Anleitung beschrieben.</p>\n<p class=\"msg msg--highlight \">Außerdem verweisen wir auf die aktuellen Informationen zu Quarantänereglungen des Kreises Gütersloh, die sie <a href=\"https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/\">hier </a>finden.</p>\n<p>Informieren Sie Ihre Kontaktpersonen.<br>Wir informieren das Gesundheitsamt automatisch, damit es Kontakt mit Ihnen aufnimmt.</p>\n<h2>Wir wünschen Ihnen eine gute Besserung!</h2>",
+            "content_html": "<p>Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test.</p>\n<p>Gehen Sie für diesen schnellstmöglich auf das <a href=\"https://www.gesundheitszentrum-greffen.de/\">Gesundheitszentrum Greffen</a> zu.<br><strong>Dort können Sie <span style=\"text-decoration: underline;\">ohne Termin</span> von Montag bis Freitag in den Zeiten von 08.00 - 11.00 Uhr einen PCR-Abstrich machen lassen.</strong></p>\n<p>Beachten Sie bitte, dass dies in der <strong>Abstrichstelle </strong>des Gesundheitszentrum geschieht, diese befindet sich nicht in der Praxis, sondern ist über einen separaten Eingang zu erreichen:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://testzentrum-greffen.de/media/posts/6/gz.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://testzentrum-greffen.de/media/posts/6/responsive/gz-xs.jpg 300w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-sm.jpg 480w ,https://testzentrum-greffen.de/media/posts/6/responsive/gz-md.jpg 768w\"  alt=\"\" width=\"3472\" height=\"4640\"></figure>Nach Klingeln wendet sich innerhalb weniger Minuten ein Praxismitarbeiter an Sie.<br>Bringen Sie zum PCR-Test Ihre Versichertenkarte und einen Mundschutz mit.</p>\n<p>Nach einem Abstrich erhalten Sie einen QR-Code und eine Anleitung zum Umgang mit diesem. Mit dem QR-Code können Sie am nächsten Tag Ihr Ergebnis online abrufen. Eine separate App ist hierfür nicht notwendig. Der Prozess hierzu ist in der Anleitung beschrieben.</p>\n<p class=\"msg msg--highlight \">Außerdem verweisen wir auf die aktuellen Informationen zu Quarantänereglungen des Kreises Gütersloh, die sie <a href=\"https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/\">hier </a>finden.</p>\n<p>Informieren Sie Ihre Kontaktpersonen.<br>Wir informieren das Gesundheitsamt automatisch, damit es Kontakt mit Ihnen aufnimmt.</p>\n<h2>Wir wünschen Ihnen eine gute Besserung!</h2>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2022-04-21T14:16:38+02:00",
-            "date_modified": "2022-04-25T16:14:27+02:00"
+            "date_modified": "2022-04-25T16:37:13+02:00"
         },
         {
             "id": "https://testzentrum-greffen.de/testablauf.html",
@@ -44,13 +59,14 @@
             "title": "Testablauf",
             "summary": "Vor Ihrem Besuch Voraussetzung: Sie zeigen keine Covid-Symptome. Wenn sie Symptome zeigen, rufen Sie bitte Ihren Hausarzt an und stimmen&hellip;",
             "content_html": "<h2>Vor Ihrem Besuch</h2>\n<ol>\n<li>Voraussetzung: Sie zeigen keine Covid-Symptome.\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Wenn sie Symptome zeigen, rufen Sie bitte Ihren Hausarzt an und stimmen Sie sich mit diesem ab. Besuchen Sie uns in diesem Fall bitte <span style=\"text-decoration: underline;\">nicht</span>.</li>\n</ol>\n</li>\n<li>Sind Sie asymptomatisch, dann besuchen Sie uns ohne vorherige Terminabsprache. Wir führen Ihren Test gerne spontan durch.</li>\n</ol>\n<h2>Vor Ort</h2>\n<ol>\n<li>Tragen Sie bitte eine Maske und halten Sie einen Abstand von 1,5m oder mehr zu anderen Bürgern.</li>\n<li><strong>Halten Sie Ihren Personalausweis bereit.</strong></li>\n<li>Warten Sie am Anmeldetisch, bis wir uns an Sie wenden.</li>\n<li>ePassGo-Nutzer zeigen Ihren persönlichen QR-Code vor.\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Alternativ füllen Sie die grau-hinterlegten Felder in den vorgestellten Formularen aus.</li>\n</ol>\n</li>\n<li>Wir machen Ihren Abstrich.</li>\n<li>Innerhalb von 15-20 Minuten erhalten Sie das Testergebnis in Formularform (zur Abholung) oder per eMail.</li>\n</ol>\n<p>Für die kontaktlose und schnellste Abwicklung Ihres Tests, empfehlen wir Ihnen die Smartphone-App <strong>ePassGo</strong>.<br>Sie erstellen mit ihr einen persönlichen QR-Code, der das händische Formular ersetzt. Das Ergebnis erhalten Sie dann digital. Das erspart Ihnen das Warten am Testzentrum.</p>\n<p>Weitere Informationen gibt es auf der Seite des Herstellers (<a href=\"https://www.passgo.de/\">passgo.de</a>).</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://testzentrum-greffen.de/media/posts/5/epassgo-logo-schrift.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/epassgo-logo-schrift-md.png 768w\"  alt=\"\" width=\"779\" height=\"300\"></figure>\n<p>Klicken Sie die Bilder an, um die App im Marketplace für Ihr Smartphone zu öffnen und zu downloaden.</p>\n<figure class=\"post__image\"><a href=\"https://play.google.com/store/apps/details?id=de.passgo.passgo\"><img loading=\"lazy\"  src=\"https://testzentrum-greffen.de/media/posts/5/playstore_banner.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/playstore_banner-md.png 768w\"  alt=\"\" width=\"342\" height=\"100\"></figure></a> <a href=\"https://apps.apple.com/de/app/passgo/id1554859142\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://testzentrum-greffen.de/media/posts/5/appstore_click.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-xs.png 300w ,https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-sm.png 480w ,https://testzentrum-greffen.de/media/posts/5/responsive/appstore_click-md.png 768w\"  alt=\"\" width=\"296\" height=\"100\"></figure></a></p>\n<p> </p>",
+            "image": "https://testzentrum-greffen.de/media/posts/5/epassgo-logo-schrift-2.png",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2022-04-21T12:58:59+02:00",
-            "date_modified": "2022-04-21T17:53:45+02:00"
+            "date_modified": "2022-04-30T09:11:30+02:00"
         },
         {
             "id": "https://testzentrum-greffen.de/quarantaeneregelung.html",
