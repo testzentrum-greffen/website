@@ -3,12 +3,43 @@
     <title>Testzentrum Greffen</title>
     <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
     <link href="https://testzentrum-greffen.de" />
-    <updated>2022-04-30T10:18:19+02:00</updated>
+    <updated>2022-06-09T21:45:24+02:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://testzentrum-greffen.de</id>
 
+    <entry>
+        <title>Freitesten</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/freitesten.html"/>
+        <id>https://testzentrum-greffen.de/freitesten.html</id>
+
+        <updated>2022-06-09T21:40:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nachdem eine Infektion bei Ihnen festgestellt wurde, ist eine Freitestung, um die Quarantäne zu verlassen, ab dem fünften Tag der&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nachdem eine Infektion bei Ihnen festgestellt wurde, ist eine Freitestung, um die Quarantäne zu verlassen, ab dem fünften Tag der Isolierung möglich.</p>
+<p>Das Land NRW beschreibt die gesetzliche Maßgbabe in <a href="https://www.land.nrw/pressemitteilung/neue-test-und-quarantaeneregelungen-ab-5-mai-freitesten-bereits-nach-fuenf-tagen" target="_blank" rel="noopener">dieser Pressemitteilung</a>.</p>
+<p class="msg msg--highlight "><strong>Bei Ihrem Besuch zum Freitesten </strong>gilt, das Risiko für andere Bürger zu minimieren, da Sie noch positiv und somit ansteckend sein könnten. Dies erreichen wir, indem Sie sich nicht wie üblich im Zelt anstellen, sondern am <strong>Container-Ausgang</strong> (zum Bäcker zugewandte Tür) anmelden.</p>
+<ol>
+<li>Tragen Sie bitte unbedingt eine Maske.</li>
+<li>Halten Sie Ihren Personalausweis bereit.</li>
+<li>Klopfen Sie an und treten Sie zurück.</li>
+<li>Wir wenden uns zügig an Sie.</li>
+<li><strong>Teilen Sie uns bitte mit, dass Sie zum Freitesten da sind.</strong></li>
+<li>Schließlich findet der gewohnte Testablauf statt, den Sie <a href="https://testzentrum-greffen.de/testablauf.html">hier </a>nachlesen können.</li>
+</ol>
+<p>Rufen Sie uns bei Fragen gerne an.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WILLKOMMEN</title>
         <author>
@@ -17,7 +48,7 @@
         <link href="https://testzentrum-greffen.de/willkommen.html"/>
         <id>https://testzentrum-greffen.de/willkommen.html</id>
 
-        <updated>2022-04-30T09:09:50+02:00</updated>
+        <updated>2022-05-30T12:58:42+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://testzentrum-greffen.de/media/posts/10/WhatsApp-Image-2022-04-29-at-12.37.47-2.jpeg" alt="" />
@@ -66,7 +97,7 @@
         <link href="https://testzentrum-greffen.de/positiv.html"/>
         <id>https://testzentrum-greffen.de/positiv.html</id>
 
-        <updated>2022-04-25T16:37:13+02:00</updated>
+        <updated>2022-06-09T21:45:24+02:00</updated>
             <summary>
                 <![CDATA[
                     Sind Sie positiv auf Covid getestet worden, haben Sie Anspruch auf einen PCR-Test. Gehen Sie für diesen schnellstmöglich auf das&hellip;
@@ -82,6 +113,8 @@
 <p class="msg msg--highlight ">Außerdem verweisen wir auf die aktuellen Informationen zu Quarantänereglungen des Kreises Gütersloh, die sie <a href="https://www.kreis-guetersloh.de/aktuelles/corona/quarantaene/">hier </a>finden.</p>
 <p>Informieren Sie Ihre Kontaktpersonen.<br>Wir informieren das Gesundheitsamt automatisch, damit es Kontakt mit Ihnen aufnimmt.</p>
 <h2>Wir wünschen Ihnen eine gute Besserung!</h2>
+<p> </p>
+<p>Nach fünf Tagen können Sie sich freitesten lassen. Erfahren Sie <a href="https://testzentrum-greffen.de/freitesten.html">hier </a>mehr dazu.</p>
             ]]>
         </content>
     </entry>
