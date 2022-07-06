@@ -3,12 +3,38 @@
     <title>Testzentrum Greffen</title>
     <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
     <link href="https://testzentrum-greffen.de" />
-    <updated>2022-06-12T17:44:53+02:00</updated>
+    <updated>2022-07-06T22:09:23+02:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://testzentrum-greffen.de</id>
 
+    <entry>
+        <title>ANKÜNDIGUNG</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/ankuendigung.html"/>
+        <id>https://testzentrum-greffen.de/ankuendigung.html</id>
+
+        <updated>2022-07-06T22:09:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Sehr geehrte Damen und Herren, ab Montag, den 11. Juli 2022, reagieren wir mit geänderten Öffnungszeiten auf das veränderte Testgeschehen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sehr geehrte Damen und Herren,</p>
+<p> </p>
+<p>ab Montag, den 11. Juli 2022, reagieren wir mit geänderten Öffnungszeiten auf das veränderte Testgeschehen. Diese Öffnungszeiten gelten dann:</p>
+<p class="msg msg--highlight ">Mo. - Sa.: 09.00 bis 13.00 Uhr<br>So. u. Feiertage: 12.00 - 14.00 Uhr</p>
+<p>Wir freuen uns auf Ihren Besuch.</p>
+<p> </p>
+<p>Ihr Testzentrum Greffen</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Freitesten</title>
         <author>
