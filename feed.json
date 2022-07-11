@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://testzentrum-greffen.de/ankuendigung.html",
-            "url": "https://testzentrum-greffen.de/ankuendigung.html",
-            "title": "ANKÜNDIGUNG",
-            "summary": "Sehr geehrte Damen und Herren, ab Montag, den 11. Juli 2022, reagieren wir mit geänderten Öffnungszeiten auf das veränderte Testgeschehen.",
-            "content_html": "<p>Sehr geehrte Damen und Herren,</p>\n<p> </p>\n<p>ab Montag, den 11. Juli 2022, reagieren wir mit geänderten Öffnungszeiten auf das veränderte Testgeschehen. Diese Öffnungszeiten gelten dann:</p>\n<p class=\"msg msg--highlight \">Mo. - Sa.: 09.00 bis 13.00 Uhr<br>So. u. Feiertage: 12.00 - 14.00 Uhr</p>\n<p>Wir freuen uns auf Ihren Besuch.</p>\n<p> </p>\n<p>Ihr Testzentrum Greffen</p>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-06T22:09:23+02:00",
-            "date_modified": "2022-07-06T22:09:23+02:00"
-        },
-        {
             "id": "https://testzentrum-greffen.de/freitesten.html",
             "url": "https://testzentrum-greffen.de/freitesten.html",
             "title": "Freitesten",
