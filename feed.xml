@@ -3,12 +3,35 @@
     <title>Testzentrum Greffen</title>
     <link href="https://testzentrum-greffen.de/feed.xml" rel="self" />
     <link href="https://testzentrum-greffen.de" />
-    <updated>2022-07-20T19:16:54+02:00</updated>
+    <updated>2022-07-31T16:23:04+02:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://testzentrum-greffen.de</id>
 
+    <entry>
+        <title>Aushilfen gesucht</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://testzentrum-greffen.de/aushilfen-gesucht.html"/>
+        <id>https://testzentrum-greffen.de/aushilfen-gesucht.html</id>
+
+        <updated>2022-07-31T16:23:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Wir sind auf der Suche nach Unterstützung für unser Team! Im Rahmen der Öffnungszeiten fallen unterschiedliche Aufgaben an, die unter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wir sind auf der Suche nach Unterstützung für unser Team!</p>
+<p>Im Rahmen der Öffnungszeiten fallen unterschiedliche Aufgaben an, die unter Einhaltung strenger Hygienevorschriften durchgeführt werden müssen. Darunter fallen natürlich die Bürgertestungen, dazu gehören weiterhin die Dokumentation der Testungen und die Sicherstellung der Hygiene. Die notwendigen Schulungen planen wir mit Ihnen.</p>
+<p>Die Stellen sind zunächst auf 450€-Basis (Minijob).</p>
+<p>Rufen Sie uns gerne an, um weitere Informationen zu erhalten.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Freitesten</title>
         <author>
